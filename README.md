@@ -1,2 +1,2 @@
 # PingPong
-Created the classic Pacman game using Unity Game development Engine
+Classic Pacman game using Unity Game development Engine
